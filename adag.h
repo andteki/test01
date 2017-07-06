@@ -1,0 +1,3 @@
+
+double szamolTerulet();
+double szamolKerulet();
